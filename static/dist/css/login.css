@@ -1,0 +1,18 @@
+html {
+    height: 100% !important;
+    overflow-y: hidden !important;
+}
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3f1d38bbdda690e28a81673c06325075&auto=format&fit=crop&w=1489&q=80') !important;
+    background-position: 50% !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    height: 100% !important;
+}
+
+.login-links {
+    border-top: 3px solid #3c8dbc;
+    padding-top: 20px;
+    margin-top: 20px;
+}
